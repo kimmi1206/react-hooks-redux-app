@@ -1,5 +1,4 @@
 import styles from './Navigation.module.css';
-
 import Links from './lib/Links';
 import { NavTitle } from './lib/textLib';
 
